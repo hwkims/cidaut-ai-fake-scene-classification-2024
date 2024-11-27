@@ -1,4 +1,5 @@
 ![image](https://github.com/user-attachments/assets/5bf1de10-d6eb-4cfc-95eb-510303edecb2)
+![image](https://github.com/user-attachments/assets/48726b8b-b6c3-4b4d-9270-ee6f5d9baa58)
 
 이 코드는 딥러닝 모델을 사용하여 가짜 이미지와 실제 이미지를 분류하는 작업을 진행하는 코드입니다. 구체적으로 EfficientNet V2 모델을 사용하여 이미지를 학습시키고, 학습한 모델을 이용해 테스트 이미지에 대한 예측을 진행하는 구조입니다. 코드의 각 부분을 블로그용으로 자세히 설명하겠습니다.
 
